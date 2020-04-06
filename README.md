@@ -1,6 +1,10 @@
 # NewAdwaitaSlimDark
 Tweak New Adwaita Dark GTK Theme with slim version!
 
+This version of the theme is based on the NewAdwaita-Slim theme. 
+
+Link to the original project below
+
 ## Preview
 ![Image](NewAdwaitaSlimDark.png)
 
