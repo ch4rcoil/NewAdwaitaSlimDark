@@ -2,7 +2,7 @@
 Tweak New Adwaita Dark GTK Theme with slim version!
 
 ## Preview
-![Image](NewAdwaitaDarkSlim.png)
+![Image](NewAdwaitaSlimDark.png)
 
 ## Installation
 <ul>
